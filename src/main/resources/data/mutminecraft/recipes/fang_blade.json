@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F ",
+    " L ",
+    " S "
+  ],
+  "key": {
+    "F": {
+      "item": "mutminecraft:direwolf_fang"
+    },
+    "L": {
+      "item": "mutminecraft:leather_strips"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mutminecraft:fang_blade"
+  }
+}

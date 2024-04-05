@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "mutminecraft:treat_usable_meats"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MBM",
+    "BMM"
+  ],
+  "result": {
+    "item": "mutminecraft:treat",
+    "count": 1
+  }
+}
