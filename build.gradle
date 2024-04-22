@@ -1,3 +1,5 @@
+// Struktura stažená ze zdroje https://files.minecraftforge.net/net/minecraftforge/forge/, specifické parametry doplněny ručně
+
 plugins {
     id 'eclipse'
     id 'idea'
